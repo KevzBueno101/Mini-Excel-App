@@ -2,6 +2,7 @@
 
 A simple Excel GUI application built using **Python Tkinter** and **Tcl/Tk**, allowing you to load and view `.xlsx` files in an easy-to-use interface.
 
+Another product of tutorial hell.
 ---
 
 ## 🔧 Features
@@ -18,6 +19,11 @@ A simple Excel GUI application built using **Python Tkinter** and **Tcl/Tk**, al
 - **Python 3**
 - **Tkinter (Tcl/Tk GUI library)**
 - [`openpyxl`](https://openpyxl.readthedocs.io/en/stable/) – for Excel file handling
+
+---
+## Reference
+
+-https://www.youtube.com/watch?v=8m4uDS_nyCk
 
 ---
 
